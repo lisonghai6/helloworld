@@ -1,0 +1,8 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+  auto name = "my name jack.";
+  cout<< name << endl;
+  return 0;
+}
